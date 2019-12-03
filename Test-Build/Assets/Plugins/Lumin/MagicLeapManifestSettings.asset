@@ -23,7 +23,7 @@ MonoBehaviour:
   - name: BatteryInfo
     enabled: 0
   - name: ConnectBackgroundMusicService
-    enabled: 1
+    enabled: 0
   - name: ControllerPose
     enabled: 0
   - name: DrmCertificates
@@ -37,13 +37,13 @@ MonoBehaviour:
   - name: InAppPurchase
     enabled: 0
   - name: Internet
-    enabled: 1
+    enabled: 0
   - name: MusicService
-    enabled: 1
+    enabled: 0
   - name: NormalNotificationsUsage
     enabled: 0
   - name: Occlusion
-    enabled: 1
+    enabled: 0
   - name: PowerInfo
     enabled: 0
   - name: RegisterBackgroundMusicService
@@ -51,7 +51,7 @@ MonoBehaviour:
   - name: ScreensProvider
     enabled: 0
   - name: WorldReconstruction
-    enabled: 1
+    enabled: 0
   - name: AddressBookRead
     enabled: 0
   - name: AddressBookWrite
@@ -61,12 +61,12 @@ MonoBehaviour:
   - name: PwFoundObjRead
     enabled: 0
   - name: AudioCaptureMic
-    enabled: 1
+    enabled: 0
   - name: AudioRecognizer
-    enabled: 1
+    enabled: 0
   - name: CameraCapture
-    enabled: 1
+    enabled: 0
   - name: CoarseLocation
-    enabled: 1
+    enabled: 0
   - name: VoiceInput
-    enabled: 1
+    enabled: 0
