@@ -61,12 +61,12 @@ MonoBehaviour:
   - name: PwFoundObjRead
     enabled: 0
   - name: AudioCaptureMic
-    enabled: 0
+    enabled: 1
   - name: AudioRecognizer
-    enabled: 0
+    enabled: 1
   - name: CameraCapture
-    enabled: 0
+    enabled: 1
   - name: CoarseLocation
-    enabled: 0
+    enabled: 1
   - name: VoiceInput
-    enabled: 0
+    enabled: 1

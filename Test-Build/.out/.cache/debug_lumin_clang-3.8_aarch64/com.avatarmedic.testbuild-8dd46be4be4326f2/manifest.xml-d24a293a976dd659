@@ -1,0 +1,15 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="abae6830-a7f6-461f-af39-57594d52c0d0" ml:package="com.avatarmedic.testbuild" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="4" ml:sdk_version="1.0" ml:visible_name="drone-ges-poc">
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="drone-ges-poc">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="GesturesConfig" />
+    <uses-privilege ml:name="GesturesSubscribe" />
+    <uses-privilege ml:name="AudioCaptureMic" />
+    <uses-privilege ml:name="AudioRecognizer" />
+    <uses-privilege ml:name="CameraCapture" />
+    <uses-privilege ml:name="CoarseLocation" />
+    <uses-privilege ml:name="VoiceInput" />
+  </application>
+</manifest>
