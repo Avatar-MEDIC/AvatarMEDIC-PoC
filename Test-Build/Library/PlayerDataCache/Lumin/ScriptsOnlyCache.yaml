@@ -10,6 +10,7 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.MagicLeap.MLMediaPlayer
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.SpatialTracking.dll:
     - UnityEngine.SpatialTracking.TrackedPoseDriver
     UnityEngine.UI.dll:
@@ -22,7 +23,7 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.MagicLeap.MagicLeapSettings
     - UnityEngine.XR.MagicLeap.Rendering.MagicLeapCamera
   sceneClasses:
-    Assets/Scenes/SampleScene.unity:
+    Assets/Drone.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -62,35 +63,35 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9802}
+      Script: {instanceID: 9804}
     - Class: 114
-      Script: {instanceID: 9808}
+      Script: {instanceID: 9810}
     - Class: 114
-      Script: {instanceID: 10016}
+      Script: {instanceID: 10018}
     - Class: 114
-      Script: {instanceID: 10282}
+      Script: {instanceID: 10284}
     - Class: 114
-      Script: {instanceID: 10488}
+      Script: {instanceID: 10490}
     - Class: 114
-      Script: {instanceID: 10570}
+      Script: {instanceID: 10572}
     - Class: 114
-      Script: {instanceID: 10822}
+      Script: {instanceID: 10824}
     - Class: 114
-      Script: {instanceID: 11352}
+      Script: {instanceID: 11354}
     - Class: 114
-      Script: {instanceID: 11536}
+      Script: {instanceID: 11538}
     - Class: 114
-      Script: {instanceID: 11588}
+      Script: {instanceID: 11590}
     - Class: 114
-      Script: {instanceID: 11674}
+      Script: {instanceID: 11676}
     - Class: 114
-      Script: {instanceID: 11694}
+      Script: {instanceID: 11696}
     - Class: 114
-      Script: {instanceID: 11814}
+      Script: {instanceID: 11816}
     - Class: 114
-      Script: {instanceID: 11938}
+      Script: {instanceID: 11940}
     - Class: 114
-      Script: {instanceID: 11982}
+      Script: {instanceID: 11984}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -1194,5 +1195,5 @@ ScriptsOnlyBuild:
     className: DeepSeaExplorerLauncher
   platform: 39
   scenePathNames:
-  - Assets/Scenes/SampleScene.unity
+  - Assets/Drone.unity
   playerPath: /Users/dulce303/AvatarMEDIC-PoC/Test-Build/Drone-GES-PoC.mpk

@@ -1,0 +1,85 @@
+[com.avatarmedic.drone] Laying out DATAS into '.out'...
+mabu: skipping unmodified file '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Player.elf'
+mabu: skipping unmodified file '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so'
+mabu: skipping unmodified file '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll'
+mabu: skipping unmodified file '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/LuminUnity.dll'
+mabu: skipping unmodified file '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll'
+mabu: skipping unmodified file '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so'
+mabu: skipping unmodified file '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so'
+mabu: skipping unmodified file '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so'
+mabu: skipping unmodified file '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/nunit.framework.dll'
+mabu: skipping unmodified file '/Users/dulce303/MagicLeap/mlsdk/v0.20.0/lumin/stl/libc++/lib/libc++_shared.so'
+mabu: linked 'Temp/StagingArea/Data/Native/libil2cpp.so' into '.out/bin/libil2cpp.so'
+mabu: wrote data layout cache to '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/layout.mf'
+[com.avatarmedic.drone] Creating package '.out/com.avatarmedic.drone.mpk'...
+mabu: setting tail data: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/python3/bin/python3.5 /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/mabu/src/taildata_v3.py --sbox USER --debuggable /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/AudioPluginMSASpatializer.so-030950c5a4fd2df9
+mabu: applied tail data to '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/AudioPluginMSASpatializer.so-030950c5a4fd2df9'
+mabu: running signer tool: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/signer/sign-file sha512 /Users/dulce303/dulce303.privkey /Users/dulce303/dulce303.cert /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/AudioPluginMSASpatializer.so-030950c5a4fd2df9
+mabu: signed '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/AudioPluginMSASpatializer.so-030950c5a4fd2df9'
+mabu: setting tail data: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/python3/bin/python3.5 /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/mabu/src/taildata_v3.py --sbox USER --debuggable /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/Player.elf-2d4c09df3e22fb11
+mabu: applied tail data to '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/Player.elf-2d4c09df3e22fb11'
+mabu: running signer tool: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/signer/sign-file sha512 /Users/dulce303/dulce303.privkey /Users/dulce303/dulce303.cert /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/Player.elf-2d4c09df3e22fb11
+mabu: signed '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/Player.elf-2d4c09df3e22fb11'
+mabu: setting tail data: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/python3/bin/python3.5 /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/mabu/src/taildata_v3.py --sbox USER --debuggable /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/UnityMagicLeap.so-030950c5a4fd2df9
+mabu: applied tail data to '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/UnityMagicLeap.so-030950c5a4fd2df9'
+mabu: running signer tool: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/signer/sign-file sha512 /Users/dulce303/dulce303.privkey /Users/dulce303/dulce303.cert /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/UnityMagicLeap.so-030950c5a4fd2df9
+mabu: signed '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/UnityMagicLeap.so-030950c5a4fd2df9'
+mabu: setting tail data: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/python3/bin/python3.5 /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/mabu/src/taildata_v3.py --sbox USER --debuggable /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libc++_shared.so-4bd27754957a7f34
+mabu: applied tail data to '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libc++_shared.so-4bd27754957a7f34'
+mabu: running signer tool: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/signer/sign-file sha512 /Users/dulce303/dulce303.privkey /Users/dulce303/dulce303.cert /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libc++_shared.so-4bd27754957a7f34
+mabu: signed '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libc++_shared.so-4bd27754957a7f34'
+mabu: setting tail data: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/python3/bin/python3.5 /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/mabu/src/taildata_v3.py --sbox USER --debuggable /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libil2cpp.so-de4f798dbb00b063
+mabu: applied tail data to '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libil2cpp.so-de4f798dbb00b063'
+mabu: running signer tool: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/signer/sign-file sha512 /Users/dulce303/dulce303.privkey /Users/dulce303/dulce303.cert /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libil2cpp.so-de4f798dbb00b063
+mabu: signed '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libil2cpp.so-de4f798dbb00b063'
+mabu: setting tail data: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/python3/bin/python3.5 /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/mabu/src/taildata_v3.py --sbox USER --debuggable /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libml_camera_plugin.so-030950c5a4fd2df9
+mabu: applied tail data to '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libml_camera_plugin.so-030950c5a4fd2df9'
+mabu: running signer tool: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/signer/sign-file sha512 /Users/dulce303/dulce303.privkey /Users/dulce303/dulce303.cert /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libml_camera_plugin.so-030950c5a4fd2df9
+mabu: signed '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libml_camera_plugin.so-030950c5a4fd2df9'
+mabu: setting tail data: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/python3/bin/python3.5 /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/mabu/src/taildata_v3.py --sbox USER --debuggable /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libml_mediaplayer_plugin.so-030950c5a4fd2df9
+mabu: applied tail data to '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libml_mediaplayer_plugin.so-030950c5a4fd2df9'
+mabu: running signer tool: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/signer/sign-file sha512 /Users/dulce303/dulce303.privkey /Users/dulce303/dulce303.cert /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libml_mediaplayer_plugin.so-030950c5a4fd2df9
+mabu: signed '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libml_mediaplayer_plugin.so-030950c5a4fd2df9'
+mabu: transforming manifest
+mabu: set <manifest ml:developer_id="abae6830-a7f6-461f-af39-57594d52c0d0">
+mabu: adding package entry 'Data/Managed/Metadata/global-metadata.dat'
+mabu: adding package entry 'Data/Plugins/AudioPluginMSASpatializer.bundle'
+mabu: adding package entry 'Data/Plugins/DecoderContext.cpp'
+mabu: adding package entry 'Data/Plugins/DecoderContext.h'
+mabu: adding package entry 'Data/Plugins/ExampleMusicProvider.cpp'
+mabu: adding package entry 'Data/Plugins/MusicProviderContext.cpp'
+mabu: adding package entry 'Data/Plugins/MusicProviderContext.h'
+mabu: adding package entry 'Data/Plugins/Utility.cpp'
+mabu: adding package entry 'Data/Plugins/Utility.h'
+mabu: adding package entry 'Data/Resources/mscorlib.dll-resources.dat'
+mabu: adding package entry 'Data/Resources/unity default resources'
+mabu: adding package entry 'Data/Resources/unity_builtin_extra'
+mabu: adding package entry 'Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json'
+mabu: adding package entry 'Data/boot.config'
+mabu: adding package entry 'Data/globalgamemanagers'
+mabu: adding package entry 'Data/globalgamemanagers.assets'
+mabu: adding package entry 'Data/level0'
+mabu: adding package entry 'Data/resources.assets'
+mabu: adding package entry 'Data/resources.assets.resS'
+mabu: adding package entry 'Data/sharedassets0.assets'
+mabu: adding package entry 'Data/sharedassets0.assets.resS'
+mabu: adding package entry 'bin/AudioPluginMSASpatializer.so'
+mabu: adding package entry 'bin/LuminMediaPlayer.dll'
+mabu: adding package entry 'bin/LuminUnity.dll'
+mabu: adding package entry 'bin/MSA.Runtime.dll'
+mabu: adding package entry 'bin/Player.elf'
+mabu: adding package entry 'bin/UnityMagicLeap.so'
+mabu: adding package entry 'bin/libc++_shared.so'
+mabu: adding package entry 'bin/libil2cpp.so'
+mabu: adding package entry 'bin/libml_camera_plugin.so'
+mabu: adding package entry 'bin/libml_mediaplayer_plugin.so'
+mabu: adding package entry 'bin/nunit.framework.dll'
+mabu: adding package entry 'manifest.xml'
+mabu: generated package file '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/com.avatarmedic.drone.mpk'
+mabu: setting tail data: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/python3/bin/python3.5 /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/mabu/src/taildata_v3.py --sbox USER --debuggable --devcert /Users/dulce303/dulce303.cert /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/com.avatarmedic.drone.mpk
+mabu: applied tail data to '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/com.avatarmedic.drone.mpk'
+mabu: running signer tool: /Users/dulce303/MagicLeap/mlsdk/v0.20.0/tools/signer/sign-file sha512 /Users/dulce303/dulce303.privkey /Users/dulce303/dulce303.cert /Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/com.avatarmedic.drone.mpk
+mabu: signed '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/com.avatarmedic.drone.mpk'
+mabu: wrote package build cache to '/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/package.mf'
+mabu: 'com.avatarmedic.drone' output in '.out'
+mabu: using build target 'debug_lumin_clang-3.8_aarch64'

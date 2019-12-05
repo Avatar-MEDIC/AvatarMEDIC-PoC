@@ -1,0 +1,346 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "48a0931265d73538c4b56daa7a206f40de511762",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2934076,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "2dfa0069e25b7447e891a451ea8474eeecde8bfd",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 43462152,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/dulce303/dulce303.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "71c9956d0151c922bd939b20b1f9dbc6c4903fac",
+   "xfrm_path": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libil2cpp.so-de4f798dbb00b063",
+   "xfrm_size": 43462910
+  },
+  {
+   "compression": 8,
+   "hash": "5c856b80371bde9129f380cae53db7830d7c5138",
+   "pkgpath": "Data/Plugins/AudioPluginMSASpatializer.bundle",
+   "size": 257780,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.bundle"
+  },
+  {
+   "compression": 8,
+   "hash": "6b3b1067e8eeb28457c572292a209cc931e93089",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 269360,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/dulce303/dulce303.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "1219f4a7b4428100c6e4daea545f34d9f774f889",
+   "xfrm_path": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/AudioPluginMSASpatializer.so-030950c5a4fd2df9",
+   "xfrm_size": 270118
+  },
+  {
+   "compression": 8,
+   "hash": "669fadf60b08b4d27a1b8bba01f4580d50c85dd6",
+   "pkgpath": "Data/Plugins/DecoderContext.cpp",
+   "size": 21170,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/DecoderContext.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "afa9e38dd968be0ecf4fcce342fd2c6df7d2bfa4",
+   "pkgpath": "Data/Plugins/DecoderContext.h",
+   "size": 1605,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/DecoderContext.h"
+  },
+  {
+   "compression": 8,
+   "hash": "dea6d095b3b3c461ae1024dfb5ccecb1f76f7384",
+   "pkgpath": "Data/Plugins/ExampleMusicProvider.cpp",
+   "size": 30030,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/ExampleMusicProvider.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "de3f11d1825f89ebcf91925720cf19ba2decf479",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68096,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "dbd65c1752e6108334fdb7565beba2cc6a79b07d",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 316928,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "2b84960e69feef2581c620537c74686d537bfdef",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 19968,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "5fa4fbb5960028d3f6bc5184affe05c5d30e9f32",
+   "pkgpath": "Data/Plugins/MusicProviderContext.cpp",
+   "size": 1092,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/MusicProviderContext.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "7959215b2471cc484b9e3646953633e76beed318",
+   "pkgpath": "Data/Plugins/MusicProviderContext.h",
+   "size": 1881,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/MusicProviderContext.h"
+  },
+  {
+   "compression": 8,
+   "hash": "59d035b177af853aa8ee2a78714391dae4657a36",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 1495008,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/dulce303/dulce303.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "bc677ef568b156b8eed302a7b9946cf4d817d331",
+   "xfrm_path": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/UnityMagicLeap.so-030950c5a4fd2df9",
+   "xfrm_size": 1495766
+  },
+  {
+   "compression": 8,
+   "hash": "cf2a9409666397dfacb689ec38aa6bcb1aba178a",
+   "pkgpath": "Data/Plugins/Utility.cpp",
+   "size": 5496,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/Utility.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "bd0869f5a619c6f69b16ca15ddcdee09b2066eb7",
+   "pkgpath": "Data/Plugins/Utility.h",
+   "size": 476,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/Utility.h"
+  },
+  {
+   "compression": 8,
+   "hash": "c304dd41954e030c36437de3b651679e02512d0d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/dulce303/dulce303.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "837d9041b21fa55808a6a54116db7682d3e668cf",
+   "xfrm_path": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libml_camera_plugin.so-030950c5a4fd2df9",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "6a0b868a47b45da60d66c10ba6a0195b85f54e43",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/dulce303/dulce303.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "d1a3d2de048184432ab303a54c13c629656c5054",
+   "xfrm_path": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libml_mediaplayer_plugin.so-030950c5a4fd2df9",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "fa10859a933989c5961257c02d9f4fcf042044f1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3689324,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "08a17200ab5d82740743975cfce89ff17a6b95d8",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 770468,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "10506c7e5f53e331db0e8c7c94047849df023433",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 176,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "9f9d9fdfae69214ea57a2416e60a9fe924367caa",
+   "pkgpath": "Data/boot.config",
+   "size": 144,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "1d2cccb43ea6650516e5df090978ec0c11779098",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 51632,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "50acb4064ba5ffd41ed3dd60f26ab05d00ebbdf0",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 68148,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "034e1f3b28fb091f503d22665a3301246fa4e480",
+   "pkgpath": "Data/level0",
+   "size": 9292,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "fb861db8414471c3b7b08cde347247c441ec8100",
+   "pkgpath": "Data/resources.assets",
+   "size": 660584,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1d5e5447a0f0b085b695376c9fdb7738e07e4f23",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "1aa061a2f8519568410df952b96f087b21b8a595",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 7498620,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "884434b986a3a119c5903d4fe74ae9f43ff59e46",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 9244336,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "51f96f36ded67a16e57922244ed5bb2e5191475b",
+   "pkgpath": "bin/Player.elf",
+   "size": 20698552,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/dulce303/dulce303.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "f4bf10c03d982f26fc35d6ac36ce22d1918b3c22",
+   "xfrm_path": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/Player.elf-2d4c09df3e22fb11",
+   "xfrm_size": 20699310
+  },
+  {
+   "compression": 8,
+   "hash": "b9a26ec4866dff2c8ff62c2ba437314ff92ae349",
+   "pkgpath": "manifest.xml",
+   "size": 3505,
+   "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "c02ad897647d7f88da63df093a08f1d12aa37f25",
+     "developer_id": "abae6830-a7f6-461f-af39-57594d52c0d0"
+    }
+   },
+   "xfrm_hash": "e786925563939ce39f65c83b69bffcf617ed128f",
+   "xfrm_path": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/manifest.xml-2d4c09df3e22fb11",
+   "xfrm_size": 1181
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/dulce303/MagicLeap/mlsdk/v0.20.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/dulce303/dulce303.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ffa2476a0f798999128707012b187c375508643c",
+   "xfrm_path": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libc++_shared.so-4bd27754957a7f34",
+   "xfrm_size": 977590
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/dulce303/dulce303.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "/Users/dulce303/dulce303.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

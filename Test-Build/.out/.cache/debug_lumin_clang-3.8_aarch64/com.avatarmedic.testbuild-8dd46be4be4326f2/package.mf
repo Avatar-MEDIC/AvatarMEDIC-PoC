@@ -2,16 +2,16 @@
  "entries": [
   {
    "compression": 8,
-   "hash": "fe7fa1479411b106e4be0202da9248e9085f8277",
+   "hash": "082583b1370d4e1f5d79a05cda3551af5b3dcd94",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 3079376,
+   "size": 3079576,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/Test-Build/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "57eb221bbb9a6337589259662c29dbf922be7309",
+   "hash": "dde237170f4c76032ea10927902592a2b9e3fabd",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 46745152,
+   "size": 46750280,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/Test-Build/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -23,9 +23,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "c6ea11c01590b9e72942872f7ebc58e5146d654b",
+   "xfrm_hash": "f00a91009cec34149c39584204d6a8f4d66c39f8",
    "xfrm_path": "/Users/dulce303/AvatarMEDIC-PoC/Test-Build/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.testbuild-8dd46be4be4326f2/libil2cpp.so-20eaa724a7026d1f",
-   "xfrm_size": 46745910
+   "xfrm_size": 46751038
   },
   {
    "compression": 8,
@@ -221,16 +221,16 @@
   },
   {
    "compression": 8,
-   "hash": "91ba4b3ce1707f580b674b048a7b31f3f581814b",
+   "hash": "b5bddaab5b1e63fa8ce762c49e91218767ad2acc",
    "pkgpath": "Data/boot.config",
    "size": 247,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/Test-Build/Temp/StagingArea/Data/boot.config"
   },
   {
    "compression": 8,
-   "hash": "f9eb666d4d5d7f1044ae29887ee26d2b08e1cde8",
+   "hash": "c1b100e918f70dda1a4ec4ab94dff6888e9b772c",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 60072,
+   "size": 60056,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/Test-Build/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
@@ -249,7 +249,7 @@
   },
   {
    "compression": 8,
-   "hash": "f623e305dc7930d1a3c483eeb271472b56b92a8c",
+   "hash": "47a43f7747df44ab7ef8854d95aebce0cb8b6d0e",
    "pkgpath": "Data/level0",
    "size": 9980,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/Test-Build/Temp/StagingArea/Data/level0"
@@ -318,9 +318,9 @@
   },
   {
    "compression": 8,
-   "hash": "967ca0b0a1a488e842f96a3eb31bab98274a5e50",
+   "hash": "9b9bafbe1030fa2d186fea667a665d26a83d59e9",
    "pkgpath": "manifest.xml",
-   "size": 874,
+   "size": 866,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/Test-Build/Temp/StagingArea/manifest.xml",
    "xfrm_flags": {
     "manifest": {
@@ -328,9 +328,9 @@
      "developer_id": "abae6830-a7f6-461f-af39-57594d52c0d0"
     }
    },
-   "xfrm_hash": "5343bac3a2eaf2c1875f57f6dfb19b6d614c127a",
+   "xfrm_hash": "23bec6078634bc2ef19aafa0c810a648bf5ec255",
    "xfrm_path": "/Users/dulce303/AvatarMEDIC-PoC/Test-Build/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.testbuild-8dd46be4be4326f2/manifest.xml-d24a293a976dd659",
-   "xfrm_size": 887
+   "xfrm_size": 879
   },
   {
    "compression": 8,
