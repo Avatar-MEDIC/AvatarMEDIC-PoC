@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/AVMEDrone.unity
+    guid: dddaefd084a7b48c2967236719b93420
+  - enabled: 1
+    path: Assets/AVMEDroneV1.unity
+    guid: df18210dd3d034c4f902b274cf212c06
   m_configObjects: {}

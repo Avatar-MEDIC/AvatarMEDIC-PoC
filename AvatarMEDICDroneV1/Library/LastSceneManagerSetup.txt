@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/magic-leap-test.unity
+- path: Assets/AVMEDroneV1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

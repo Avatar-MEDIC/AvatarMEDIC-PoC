@@ -1,5 +1,5 @@
 <manifest xmlns:ml="magicleap" ml:developer_id="abae6830-a7f6-461f-af39-57594d52c0d0" ml:package="com.avatarmedic.drone" ml:version_code="1" ml:version_name="">
-  <application ml:min_api_level="5" ml:sdk_version="1.0" ml:visible_name="AVMEDrone">
+  <application ml:min_api_level="5" ml:sdk_version="1.0" ml:visible_name="AVMEDroneV1">
     
     <uses-privilege ml:name="AddressBookRead" />
     
@@ -24,7 +24,7 @@
     <uses-privilege ml:name="CoarseLocation" />
     
     <uses-privilege ml:name="ScreensProvider" />
-    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="AVMEDrone">
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="AVMEDroneV1">
       <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
     </component>
     <uses-privilege ml:name="LowLatencyLightwear" />

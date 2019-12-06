@@ -9,7 +9,7 @@
   },
   {
    "compression": 8,
-   "hash": "2dfa0069e25b7447e891a451ea8474eeecde8bfd",
+   "hash": "f3948adf93b8516c4e615d95499e7f3f479dc5ac",
    "pkgpath": "bin/libil2cpp.so",
    "size": 43462152,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/Native/libil2cpp.so",
@@ -23,7 +23,7 @@
      "version": 3
     }
    },
-   "xfrm_hash": "71c9956d0151c922bd939b20b1f9dbc6c4903fac",
+   "xfrm_hash": "ae947e4c1b73913b74a85ddc369af1c70b96a2fa",
    "xfrm_path": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/libil2cpp.so-de4f798dbb00b063",
    "xfrm_size": 43462910
   },
@@ -228,28 +228,28 @@
   },
   {
    "compression": 8,
-   "hash": "1d2cccb43ea6650516e5df090978ec0c11779098",
+   "hash": "998dc08ead235aebfa5050a828a91339edeab235",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 51632,
+   "size": 51600,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
    "compression": 8,
-   "hash": "50acb4064ba5ffd41ed3dd60f26ab05d00ebbdf0",
+   "hash": "0cbc7c5c59ef895c3fc007508c89d1baf923f1b2",
    "pkgpath": "Data/globalgamemanagers.assets",
    "size": 68148,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/globalgamemanagers.assets"
   },
   {
    "compression": 8,
-   "hash": "034e1f3b28fb091f503d22665a3301246fa4e480",
+   "hash": "ca037ffbcc7b75f62535be048b3a7835682ff869",
    "pkgpath": "Data/level0",
-   "size": 9292,
+   "size": 8212,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/level0"
   },
   {
    "compression": 8,
-   "hash": "fb861db8414471c3b7b08cde347247c441ec8100",
+   "hash": "ccdf2357de09cc6cbc215f4cacebaaec408a4ae6",
    "pkgpath": "Data/resources.assets",
    "size": 660584,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/resources.assets"
@@ -263,16 +263,16 @@
   },
   {
    "compression": 8,
-   "hash": "1aa061a2f8519568410df952b96f087b21b8a595",
+   "hash": "e062c3102faf6505d58dcc11b9d62d0a34d6f25b",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 7498620,
+   "size": 7359124,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
    "compression": 8,
-   "hash": "884434b986a3a119c5903d4fe74ae9f43ff59e46",
+   "hash": "9f7d13a16d612c98f7c1c260dc2cfbba5fdc5777",
    "pkgpath": "Data/sharedassets0.assets.resS",
-   "size": 9244336,
+   "size": 8195760,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/Data/sharedassets0.assets.resS"
   },
   {
@@ -297,9 +297,9 @@
   },
   {
    "compression": 8,
-   "hash": "b9a26ec4866dff2c8ff62c2ba437314ff92ae349",
+   "hash": "ee67afea6648e5ead71ddb0d54fc1f2948c0afe9",
    "pkgpath": "manifest.xml",
-   "size": 3505,
+   "size": 3509,
    "src": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/Temp/StagingArea/manifest.xml",
    "xfrm_flags": {
     "manifest": {
@@ -307,9 +307,9 @@
      "developer_id": "abae6830-a7f6-461f-af39-57594d52c0d0"
     }
    },
-   "xfrm_hash": "e786925563939ce39f65c83b69bffcf617ed128f",
+   "xfrm_hash": "beff5aaf0a3d71ba9cd007c2e62f0d489501c266",
    "xfrm_path": "/Users/dulce303/AvatarMEDIC-PoC/AvatarMEDICDroneV1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.avatarmedic.drone-11ba0337c2593287/manifest.xml-2d4c09df3e22fb11",
-   "xfrm_size": 1181
+   "xfrm_size": 1185
   },
   {
    "compression": 8,
